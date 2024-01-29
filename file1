@@ -2,4 +2,8 @@ Hello world!
 123
 Line from user2 now
 Good evening!(from branch add-feacher1)
+<<<<<<< HEAD
 Line from user1 456
+=======
+Line from user1 123
+>>>>>>> add-feature1
